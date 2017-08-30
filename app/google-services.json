@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564566100360",
+    "firebase_url": "https://mapkotlinfirebase.firebaseio.com",
+    "project_id": "mapkotlinfirebase",
+    "storage_bucket": "mapkotlinfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564566100360:android:a6b9d7b2c08969e7",
+        "android_client_info": {
+          "package_name": "com.nacoda.mapkotlinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564566100360-fdnhu48le3mskkmanj94v0fgbuhv7mpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nacoda.mapkotlinfirebase",
+            "certificate_hash": "04ec54dab12a61ea0f5e5d3e9c0d972acd97c11d"
+          }
+        },
+        {
+          "client_id": "564566100360-ud8jk3i9lbi6duteljme7df01np698rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM72oZchf-XLimf-U4DFd4DbIJZu_9hEM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564566100360-ud8jk3i9lbi6duteljme7df01np698rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
